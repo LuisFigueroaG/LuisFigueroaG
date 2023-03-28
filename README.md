@@ -1,12 +1,12 @@
 # Luis Figueroa  🖥️
 
-Hi, I'm Luis Figueroa, an Industrial Civil Engineering student at the University of Chile with a passion for machine learning and natural language processing.
-
 <div align="center">
     <img src='banner2.jpeg' style="border-radius: 12px"> 
     <em></em>
 </div>
+<br>
 
+Hi, I'm Luis Figueroa, an Industrial Civil Engineering student at the University of Chile with a passion for machine learning and natural language processing.
 
 <br>
 
