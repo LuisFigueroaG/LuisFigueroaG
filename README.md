@@ -1,4 +1,4 @@
-# Luis Figueroa
+# Luis Figueroa  🖥️
 
 Hi, I'm Luis Figueroa, an Industrial Civil Engineering student at the University of Chile with a passion for machine learning and natural language processing.
 
@@ -29,12 +29,13 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 
 ## Skills 🛠
 
-- JavaScript
-- React
-- Node.js
-- HTML/CSS
-- MongoDB
-- Git
+- Python (Pandas, Numpy, Scikit-learn)
+- SQL (MySQL, NoSQL, SQL Server)
+- Software BI (Power BI, Tableau)
+- JavaScript (D3.js)
+- Latex
+- R
+
 
 ## Experience 💼
 
@@ -43,11 +44,11 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 
 - Professional internship as a Data Analyst in the Risk Management department, performing tasks such as data analysis, modeling and collection, automation of tasks and workflows, using R, Python, SQL.
 
-## Education
+## Education 🎓
 
 -Industrial Civil Engineering, University of Chile (Expected Graduation: 2024)
 
-## Projects
+## Projects 📝
 
 ### Project 1: Users Contribution Prediction Model - Fintual
 *(Python, Machine Learning)*
@@ -63,7 +64,4 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 -Analysis of data with over 192,000 observations of services provided by the CITE Network, between January 2018 and July 2021.
 -NLP techniques were used to apply a text clustering model (kmeans) to segment the services provided by ITP and the CITE Network.
 
-## Contact
 
-- Email: john.doe@email.com
-- LinkedIn: [https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
