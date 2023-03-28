@@ -46,22 +46,22 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 
 ## Education 🎓
 
--Industrial Civil Engineering, University of Chile (Expected Graduation: 2024)
+- Industrial Civil Engineering, University of Chile (Expected Graduation: 2024)
 
 ## Projects 📝
 
 ### Project 1: Users Contribution Prediction Model - Fintual
 *(Python, Machine Learning)*
 
--Developed as part of the MDS7201 course in the Master of Data Science program at the University of Chile. Conducted in collaboration with Fintual.
--Analysis of disaggregated data from Fintual platform users, consisting of over 435,000 observations over a period of 2 years.
--Evaluation of classification and regression models for predicting which users will make deposits on the platform and the amount of those deposits.
+- Developed as part of the MDS7201 course in the Master of Data Science program at the University of Chile. Conducted in collaboration with Fintual.
+- Analysis of disaggregated data from Fintual platform users, consisting of over 435,000 observations over a period of 2 years.
+- Evaluation of classification and regression models for predicting which users will make deposits on the platform and the amount of those deposits.
 
 ### Project 2: Segmentation Model for Training and Services - Technological Institute of Production (ITP)
 *(Python, Natural Language Processing)*
 
--Developed as part of the IN6531 course in the Faculty of Physical and Mathematical Sciences at the University of Chile. Conducted in collaboration with ITP in Peru.
--Analysis of data with over 192,000 observations of services provided by the CITE Network, between January 2018 and July 2021.
--NLP techniques were used to apply a text clustering model (kmeans) to segment the services provided by ITP and the CITE Network.
+- Developed as part of the IN6531 course in the Faculty of Physical and Mathematical Sciences at the University of Chile. Conducted in collaboration with ITP in Peru.
+- Analysis of data with over 192,000 observations of services provided by the CITE Network, between January 2018 and July 2021.
+- NLP techniques were used to apply a text clustering model (kmeans) to segment the services provided by ITP and the CITE Network.
 
 
