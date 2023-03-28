@@ -2,6 +2,11 @@
 
 Hi, I'm Luis Figueroa, an Industrial Civil Engineering student at the University of Chile with a passion for machine learning and natural language processing.
 
+<div align="center">
+    <img src='banner.jpg' style="border-radius: 12px"> 
+    <em>A photo of Hornopirén, on the Carretera Austral taken a few years ago.</em>
+</div>
+
 ## About Me
 
 I am currently pursuing my degree in Industrial Civil Engineering and have developed a keen interest in the field of machine learning and natural language processing. I am passionate about leveraging these technologies to solve complex problems and create innovative solutions.
