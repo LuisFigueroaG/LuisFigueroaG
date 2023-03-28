@@ -28,19 +28,19 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 
 ## Projects
 
-### Project 1: E-commerce Web Application
-*(React, Node.js, MongoDB)*
+### Project 1: Users Contribution Prediction Model - Fintual
+*(Python, Machine Learning)*
 
-- Built a full-stack e-commerce web application using React, Node.js, and MongoDB
-- Implemented features such as user authentication, product search and filtering, and shopping cart functionality
-- Optimized application performance by implementing caching and reducing API calls
+-Developed as part of the MDS7201 course in the Master of Data Science program at the University of Chile. Conducted in collaboration with Fintual.
+-Analysis of disaggregated data from Fintual platform users, consisting of over 435,000 observations over a period of 2 years.
+-Evaluation of classification and regression models for predicting which users will make deposits on the platform and the amount of those deposits.
 
-### Project 2: Online Quiz Platform
-*(React, Node.js, MongoDB)*
+### Project 2: Segmentation Model for Training and Services - Technological Institute of Production (ITP)
+*(Python, Natural Language Processing)*
 
-- Built a web application that allows users to create and take quizzes
-- Implemented features such as user authentication, quiz creation, and quiz taking
-- Optimized application performance by implementing server-side rendering and reducing load times
+-Developed as part of the IN6531 course in the Faculty of Physical and Mathematical Sciences at the University of Chile. Conducted in collaboration with ITP in Peru.
+-Analysis of data with over 192,000 observations of services provided by the CITE Network, between January 2018 and July 2021.
+-NLP techniques were used to apply a text clustering model (kmeans) to segment the services provided by ITP and the CITE Network.
 
 ## Contact
 
