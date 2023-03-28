@@ -4,14 +4,30 @@ Hi, I'm Luis Figueroa, an Industrial Civil Engineering student at the University
 
 <div align="center">
     <img src='banner2.jpeg' style="border-radius: 12px"> 
-    <em>A photo of Hornopirén, on the Carretera Austral taken a few years ago.</em>
+    <em></em>
 </div>
 
-## About Me
+
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/luis-figueroa-guevara-b35197214/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:luis.h.figueroa.g@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="CV.pdf">
+        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
+    </a>
+</p>
+
+
+## About Me 👨🏻‍💻
 
 I am currently pursuing my degree in Industrial Civil Engineering and have developed a keen interest in the field of machine learning and natural language processing. I am passionate about leveraging these technologies to solve complex problems and create innovative solutions.
 
-## Skills
+## Skills 🛠
 
 - JavaScript
 - React
@@ -20,7 +36,7 @@ I am currently pursuing my degree in Industrial Civil Engineering and have devel
 - MongoDB
 - Git
 
-## Experience
+## Experience 💼
 
 ### Data Analyst - Professional Internship at Banchile Inversiones.
 *(December 2022 - March 2023)*
